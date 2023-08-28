@@ -36,8 +36,8 @@ dependencies:
     specifier: ^1.0.0
     version: 1.0.0
   hexo-theme-vivia:
-    specifier: ^0.3.1
-    version: 0.3.1
+    specifier: ^0.4.0
+    version: 0.4.0
 
 packages:
 
@@ -733,8 +733,8 @@ packages:
     resolution: {integrity: sha512-bWQJWMqQI78wWiJPQZq5pJBH20TM442ShCaHGRetuEgMraxH0OKxB3NTupJzNEkzEk8DV2yrdizkXdKN6i501A==}
     dev: false
 
-  /hexo-theme-vivia@0.3.1:
-    resolution: {integrity: sha512-9YTvTZGwdmE4rEZbuyEn+EyVlpoOwJPXm8/W715Tiat98nTgoSkptdAFL6y4LSJ6TpBfS3c1Vr5FYu2pwV8/1w==}
+  /hexo-theme-vivia@0.4.0:
+    resolution: {integrity: sha512-w1FitchYp1kn7ddGFV9Rc3O0GkqPIRvw/GkjUqTe464k/No0Rln+yFLeWNQjKTE66CSkY9OCF6DmJhnq+1eLyg==}
     dependencies:
       colorjs.io: 0.4.5
       hexo-word-counter: 0.1.0
